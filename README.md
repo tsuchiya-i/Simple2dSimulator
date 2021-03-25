@@ -29,5 +29,8 @@ for _ i in range(1000):
     if done:
         env.reset()
 ```
+# Author
+
+* tsuchiya-i
 
 
